@@ -12,6 +12,11 @@
 (2) AI Hub (https://aihub.or.kr)
 사용 데이터: 감성 대화 말뭉치, 한국어 멀티세션 대화
 
+(3) Hugging Face Datasets(https://huggingface.co/datasets)
+사용 데이터: smilegate-ai/kor_unsmile
+
+
+
 - NLP모델 출처(Hugging Face Hub)
 (1) klue/roberta-base
 (2) monologg/koelectra-base-v3-discriminator
