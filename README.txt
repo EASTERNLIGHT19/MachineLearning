@@ -7,7 +7,10 @@
 
 - 데이터 출처
 (1) 국립국어원 모두의 말뭉치 (https://corpus.korean.go.kr)
+사용 데이터: 신문 말뭉치, 문학(소설) 말뭉치, 메신저/웹 말뭉치
+
 (2) AI Hub (https://aihub.or.kr)
+사용 데이터: 감성 대화 말뭉치, 한국어 멀티세션 대화
 
 - NLP모델 출처(Hugging Face Hub)
 (1) klue/roberta-base
@@ -15,6 +18,7 @@
 (3) beomi/KcELECTRA-base-v2022
 
 - 저장소 구조
+
 [Git 제외]: 저작권&용량 문제로 깃허브 저장소에 업로드 불가능
 
 MachineLearning/
