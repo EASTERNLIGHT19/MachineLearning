@@ -7,7 +7,7 @@
 
 - 저장소 구조
 MachineLearning/
-├── README.md                        # 프로젝트 메인 안내 문서
+├── README.md                            # 프로젝트 메인 안내 문서
 └── MiniPrj#1/
     ├── .gitignore                       # Git 추적 제외 설정 파일
     ├── requirements.txt                 # 필요 패키지 목록
