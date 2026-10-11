@@ -1,5 +1,10 @@
-1. transformers,
-2. torch
-3. scikit-learn
-4. numpy
-5. pandas
+torch>=2.0.0
+transformers>=4.35.0
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+konlpy  
+shap             
+tqdm
