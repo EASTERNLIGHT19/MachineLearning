@@ -1,11 +1,22 @@
 # 기계학습 미니프로젝트#1
+# 2026-2 강남대학교 기계학습 강의
 # 작성자 세대 추측 NLP 모델
 
-- 김시울, 홍민기
+- 조원 
+김시울, 홍민기
 
-- 
+- 데이터 출처
+(1) 국립국어원 모두의 말뭉치 (https://corpus.korean.go.kr)
+(2) AI Hub (https://aihub.or.kr)
+
+- NLP모델 출처(Hugging Face Hub)
+(1) klue/roberta-base
+(2) monologg/koelectra-base-v3-discriminator
+(3) beomi/KcELECTRA-base-v2022
 
 - 저장소 구조
+[Git 제외]: 저작권&용량 문제로 깃허브 저장소에 업로드 불가능
+
 MachineLearning/
 ├── README.md                            # 프로젝트 메인 안내 문서
 └── MiniPrj#1/
