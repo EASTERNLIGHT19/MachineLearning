@@ -5,8 +5,10 @@
 - 조원 
 김시울, 홍민기
 
-- 실행 환경
+- 실행 환경(원격 저장소 clone)
 git clone https://github.com/EASTERNLIGHT19/MachineLearning.git
+cd MachineLearning/MiniPrj
+pip install -r requirements.txt
 
 - 데이터 출처
 (1) 국립국어원 모두의 말뭉치 (https://corpus.korean.go.kr)
