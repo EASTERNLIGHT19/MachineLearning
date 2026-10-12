@@ -5,6 +5,9 @@
 - 조원 
 김시울, 홍민기
 
+- 실행 환경
+git clone https://github.com/EASTERNLIGHT19/MachineLearning.git
+
 - 데이터 출처
 (1) 국립국어원 모두의 말뭉치 (https://corpus.korean.go.kr)
 사용 데이터: 신문 말뭉치, 문학(소설) 말뭉치, 메신저/웹 말뭉치
@@ -14,7 +17,6 @@
 
 (3) Hugging Face Datasets(https://huggingface.co/datasets)
 사용 데이터: smilegate-ai/kor_unsmile
-
 
 
 - NLP모델 출처(Hugging Face Hub)
