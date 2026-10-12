@@ -29,7 +29,6 @@
 MachineLearning/
 ├── README.md                            # 프로젝트 메인 안내 문서
 └── MiniPrj#1/
-    ├── .gitignore                       # Git 추적 제외 설정 파일
     ├── requirements.txt                 # 필요 패키지 목록
     ├── preprocess.py                    # 원본 데이터 정제 및 라벨링 스크립트
     ├── train.py                         # 모델 학습 및 파인튜닝 실행 스크립트
