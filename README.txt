@@ -15,10 +15,13 @@ pip install -r requirements.txt
 사용 데이터: 신문 말뭉치, 문학(소설) 말뭉치, 메신저/웹 말뭉치
 
 (2) AI Hub (https://aihub.or.kr)
-사용 데이터: 감성 대화 말뭉치, 한국어 멀티세션 대화
+사용 데이터: 한국어 멀티세션 대화
 
 (3) Hugging Face Datasets(https://huggingface.co/datasets)
 사용 데이터: smilegate-ai/kor_unsmile
+
+(4)github(https://github.com/)
+사용 데이터: joel-jo-querypie/evrytime-emotion-prediction
 
 
 - NLP모델 출처(Hugging Face Hub)
