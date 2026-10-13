@@ -5,10 +5,10 @@
   - 데이터셋 크기: 61,553
   - 일상음성대화 텍스트 변화 데이터, 발화자 지역 분포: 4개 지역 별 인구분포 기준 10% 오차 내 모집, 전문지식 답변 수: 한 세션 당 최소 1번, 전문지식 출처 수: 한 세션 당 최소 1번, 성별 : 한 성별 최대 60%, 연령대 : 한 연령대 비율 최대 40% 넘지 않음  
 
- 2. 감성 대화 말뭉치(AI Hub)
-  - 다운로드 링크(https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&searchKeyword=%EA%B0%90%EC%84%B1%20%EB%8C%80%ED%99%94%20%EB%A7%90%EB%AD%89%EC%B9%98&aihubDataSe=data&dataSetSn=86)
-  - 데이터셋 크기: 58,000
-  - 일반인 1,500명 대상의 인터뷰
+ 2. everytime_ai(Github)
+  - 다운로드 링크(https://github.com/Dumul-KJH/everytime_ai/tree/main)
+  - 데이터셋 크기: 26,643
+  - KAIST 에브리타임 대학생 커뮤니티 게시물 텍스트, 2022년도 대화, 2023년도 대화 
 
 
  3.  kor_unsmile(Hugging Face Datasets)
