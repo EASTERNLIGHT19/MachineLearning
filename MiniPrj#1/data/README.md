@@ -1,5 +1,5 @@
 ### 데이터셋
-- 비정제 텍스트 데이터셋
+#### 비정제 텍스트 데이터셋
  1. 일상대화 한국어 멀티세션 데이터(AI Hub)
   - 다운로드 링크(https://aihub.or.kr/aihubdata/data/view.do?srchOptnCnd=OPTNCND001&currMenu=115&topMenu=100&searchKeyword=%ED%95%9C%EA%B5%AD%EC%96%B4+%EB%A9%80%ED%8B%B0%EC%84%B8%EC%85%98+%EB%8C%80%ED%99%94&aihubDataSe=data&dataSetSn=71678)
   - 데이터셋 크기: 61,553
@@ -16,7 +16,7 @@
   - 데이터셋 크기: 18,742
   - 인터넷 커뮤니티 텍스트, **혐오표현(다중 레이블):** 10,139개, **악플/욕설:** 3,929개, **Clean (정상 발화):** 4,674개
 
-- 정제 텍스트 데이터셋
+#### 정제 텍스트 데이터셋
  1. 신문 말뭉치(모두의 말뭉치)
   - 다운로드 링크(https://kli.korean.go.kr/corpus/main/requestMain.do)
   - 데이터셋 크기: 각 연도별 약 970,000
